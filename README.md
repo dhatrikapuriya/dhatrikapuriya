@@ -1,4 +1,10 @@
-### Hi there 👋
+### Namaste peeps! 🙏
+
+- 🌱 Enthuse learner and an admirer
+- 🔭 Hands-on in-idea exploration
+- 😌 Web Development | Python | Java | "Projects are love"
+- 📫 [LinkedIn](https://www.linkedin.com/in/dhatri-kapuriya-372a79182/)
+
 
 <!--
 **dhatrikapuriya/dhatrikapuriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
