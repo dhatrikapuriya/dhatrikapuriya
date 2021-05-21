@@ -2,7 +2,7 @@
 
 - 🌱 Enthuse learner and an admirer
 - 🔭 Hands-on in-idea exploration
-- 😌 Python | Java | Web Development | "Projects are love"
+- 😌 Software Development | "Projects are love"
 - 📫 [LinkedIn](https://www.linkedin.com/in/dhatri-kapuriya-372a79182/)
 
 
